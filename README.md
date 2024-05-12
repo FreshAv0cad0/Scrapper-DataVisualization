@@ -23,7 +23,7 @@ Before running the script, ensure you have the following prerequisites installed
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/amazon-review-scraper.git
+    git clone https://github.com/FreshAv0cad0/Scrapper-DataVisualization.git
     ```
 
 2. Install dependencies:
